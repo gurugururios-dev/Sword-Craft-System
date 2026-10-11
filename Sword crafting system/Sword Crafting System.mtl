@@ -1,0 +1,272 @@
+newmtl Part8Mtl
+Material Color
+Ka 0.21952 0.505432 0.715465
+Kd 0.21952 0.505432 0.715465
+Ks 0.0137738 0.0317134 0.0448919 
+
+d 1
+
+Ns 0
+
+map_Ka Part8_diff.png
+map_Kd Part8_diff.png
+map_d Part8_diff.png
+
+map_Bump Part8_nmap.png
+
+newmtl Baseplate1Mtl
+Material Color
+Ka 0.982826 0.827726 0.271577
+Kd 0.982826 0.827726 0.271577
+Ks 0.0385422 0.0324598 0.0106501 
+
+d 1
+
+Ns 0
+
+map_Ka Baseplate1_diff.png
+map_Kd Baseplate1_diff.png
+map_d Baseplate1_diff.png
+
+map_Bump Baseplate1_nmap.png
+
+map_Ns Baseplate1_spec.png
+
+newmtl Part1Mtl
+Material Color
+Ka 0.436813 0.302126 0.230998
+Kd 0.436813 0.302126 0.230998
+Ks 0.0239819 0.0165873 0.0126823 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Bump Part1_nmap.png
+
+map_Ns Part1_spec.png
+
+newmtl Pisobanheiro1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.118678 0.117082 0.121905 
+
+d 1
+
+Ns 0
+
+map_Ka Pisobanheiro1_diff.png
+map_Kd Pisobanheiro1_diff.png
+map_d Pisobanheiro1_diff.png
+
+map_Bump Pisobanheiro1_nmap.png
+
+map_Ns Pisobanheiro1_spec.png
+
+newmtl Part229Mtl
+Material Color
+Ka 0.103634 0.108711 0.14198
+Kd 0.103634 0.108711 0.14198
+Ks 0.0690894 0.0724741 0.0946535 
+
+d 1
+
+Ns 255
+
+map_Ka Iron1_diff.png
+map_Kd Iron1_diff.png
+map_d Iron1_diff.png
+
+map_Bump Iron1_nmap.png
+
+map_Ns Iron1_spec.png
+
+newmtl Steel1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.024459 0.0223374 0.0239188 
+
+d 1
+
+Ns 255
+
+map_Bump Getrolewarrior1_nmap.png
+
+map_Ns Getrolewarrior1_spec.png
+
+newmtl Getrolewarrior1Mtl
+Material Color
+Ka 0.708298 0.238828 0.0494335
+Kd 0.708298 0.238828 0.0494335
+Ks 0.138882 0.046829 0.00969284 
+
+d 1
+
+Ns 255
+
+map_Bump Getrolewarrior1_nmap.png
+
+map_Ns Getrolewarrior1_spec.png
+
+newmtl Light1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.0848385 0.0848385 0.0848385 
+
+d 1
+
+Ns 0
+
+newmtl Part9Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+map_Ka Part8_diff.png
+map_Kd Part8_diff.png
+map_d Part8_diff.png
+
+map_Bump Part8_nmap.png
+
+newmtl Door1Mtl
+Material Color
+Ka 0.14198 0.133209 0.106156
+Kd 0.14198 0.133209 0.106156
+Ks 0.007795 0.00731341 0.00582818 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Bump Part1_nmap.png
+
+map_Ns Part1_spec.png
+
+newmtl Spawnlocation2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Spawnlocation2_diff.png
+map_Kd Spawnlocation2_diff.png
+map_d Spawnlocation2_diff.png
+
+newmtl Getrolespy1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.184432 0.184432 0.184432 
+
+d 1
+
+Ns 255
+
+map_Bump Getrolewarrior1_nmap.png
+
+map_Ns Getrolewarrior1_spec.png
+
+newmtl Getroleblacksmith1Mtl
+Material Color
+Ka 0.103634 0.108711 0.14198
+Kd 0.103634 0.108711 0.14198
+Ks 0.0203204 0.0213159 0.0278393 
+
+d 1
+
+Ns 255
+
+map_Bump Getrolewarrior1_nmap.png
+
+map_Ns Getrolewarrior1_spec.png
+
+newmtl Part13Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.000162248 0.000162248 0.000162248 
+
+d 1
+
+Ns 0
+
+map_Ka Part8_diff.png
+map_Kd Part8_diff.png
+map_d Part8_diff.png
+
+map_Bump Part8_nmap.png
+
+newmtl Part27Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0131864 0.0130091 0.013545 
+
+d 1
+
+Ns 0
+
+map_Ka Part27_diff.png
+map_Kd Part27_diff.png
+map_d Part27_diff.png
+
+map_Bump Part27_nmap.png
+
+map_Ns Part27_spec.png
+
+newmtl Iron1Mtl
+Material Color
+Ka 0.804559 0.804559 0.84337
+Kd 0.804559 0.804559 0.84337
+Ks 0.536373 0.536373 0.562247 
+
+d 1
+
+Ns 255
+
+map_Ka Iron1_diff.png
+map_Kd Iron1_diff.png
+map_d Iron1_diff.png
+
+map_Bump Iron1_nmap.png
+
+map_Ns Iron1_spec.png
+
+newmtl Part136Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.000162248 0.000162248 0.000162248 
+
+d 1
+
+Ns 40
+
+map_Ka Part136_diff.png
+map_Kd Part136_diff.png
+map_d Part136_diff.png
+
+map_Bump Part136_nmap.png
+
+map_Ns Part136_spec.png
+
